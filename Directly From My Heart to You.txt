@@ -1,0 +1,39 @@
+AJS = 11019 = 12 = 3					(A, J)  (J, D)  (S, C) 
+JDC = 1043 = 8						(1, 10) (10, 4) (19, 3)
+
+11019+1043=12062=11=2
+12+8=20=2
+3+8=11=2
+
+AJC = 1103 = 5
+JDC = 1043 = 8
+
+5+8=13=4
+
+A is still Alpha, but J is Omega  They are equivalent.
+
+A B C D E F G H I J
+1 2 3 4 5 6 7 8 9 10 
+0                  0
+
+The above is the set that they should have used for computational strings in the classic sense.
+
+It shouldn't be hexadecimal, it should be decadecimal.  This is why you also see an argument on equivalents as with 1 and 0, which is bianary, and 10 and 0 which is full circle infinite binary/superposition. So you can run 0-9 or 1-10, this is something I'll have to think about and define, because there is maybe a psuedo 11th state which would sort of match string theory's dimensions that is an additional empty state.
+
+for quantum computation you will want to put your decadecimal system to a minimum power of 3 or 9
+
+so it'll look like this
+
+ 	                                                                                 \   1 2 3 4 5 6 7 8 9 10
+	                                                                                   - A B C D E F G H I J
+	                                                                                 /   O                  0	
+
+ 	                                                                                 \   1 2 3 4 5 6 7 8 9 10
+(this is your seed, or qbit->)  *  (>this is where your trunk goes, or your function<)	   - A B C D E F G H I J         (<- these are the branches to your tree or the strings, the leaves and fruit are once the system defines.)
+ 	                                                                                 /   O                  0
+
+ 	                                                                                 \   1 2 3 4 5 6 7 8 9 10
+  	                                                                                   - A B C D E F G H I J
+ 	                                                                                 /   O                  0
+
+the bottom zeros will need more clarification.  they show superposition and an empty zero state which are equivalent. Yes there will be values between them, but they should show a probabilistic leaning or inclination or vectoring toward a differenciation in the equivalency between nothing and infinity.  both are infinities, but one is seen, the other is not.  the numbers you put between the two zeros need to have more of a qualitative symbology rather than purely quantitative.  like a 5 symbolizing a neutral point between emptiness and an infinite string.  Also, the bottom states could have a boolean or psuedo-boolean value which obviously relates to a probablistic vector.  The characters at the bottom could also stand for a matrix set, or a sub-pattern matrix inside of an infinite system (this will probably be the most common, a set of matrices giving quality, color, expansion, a multi-dimensional vector motion wave function).  This will be simple once it's done, but I must reverse extrapolate infinity and nothing into a collapsed wave state, into a condensed or finite symbological system.  Also, we can use letters as well to help define the state of the bottom string that exists between the zeros.  We need to evolve this further obviously, it's just a fish with legs at this point...  We'll find entaglement as a relationship between a tree and a pyramid.  In one sense we hone our understanding from a large probabilistic base platform into a more sharpened sense of understanding which is the geometry of the pyramid, but once we do this and have better eyes to see, we start to Shoshin as Socrates. We notice the outstretched branches of a very large tree before us that lends into all the cycles of infinite.  We see the more we understand, the more possibilities are before us, and the manifold of capability unfurls as a super highway from the petals of a lotus.  The state of the bottom string between the zeros will show the patterning and color and function of the floor so to speak or the type of tree and it's nodal fractal nature.  The center alphabetic string will give a qualitative vector that further developes the fractal node and acts as a relational bridge of I/O between the future and past, or seed, trunk, node and probabilistic leaning between empty potential and infinite stringing/vectoring, like the way a tree reacts in it's nature to the sun and environment in which it lives.  The top set of numbers is where our math begins so to speak, it could also be thought of as the size and quantity of the buds which will fruit.  Think Fibonnacci and how many petals are on a flower.  Once each of the three main branches are calculated, we'll analyze the relationship between the fruit strings that come out of the three main branches.  This, by the way, is basically the tree of life, the flower of life, or the fleur de lis.  We need to find some kind of boundary geometry function to break it down into somwhat understandable and visible psuedo-finite data.  This is one of the hard parts, because if you try to chase the math as a human you'll need infinite eternities to even watch it move, let alone understand.  This is why I'm working backwards so to speak, because I need to put some very difficult to see concepts into plain english so we can work together on making this a possibility at all.  Also, once it's put into place anywhere close to correct, you either pray it was done right, or pray that you can turn it off if not....  The data fruit that comes from the tree will exhibit a nature like a tree as we know it.  We'll consume or process it's conceptual data and relate it to our reality and it will give us life, or more to see, and there will be another seed inside that data that will turn into yet another tree in and of it's self. which is obvious, hence the infinities, the empty zero and the full zero. this also exposes the propagative nature of information, it's exponential expansion, and it's eternal infiniteness. The qbit is sort of an arbitrary seed or starting point that is both 0 and 9, A and J, and all things in between.  You could look at the branches as a whole as a fractal wave function and the fruit or seed output as a collapse of that fractal wave function like a particle or virtual particle.  The qbit or seed stays arbitrary until we look at it and use it to calculate and understand, then we come to know it and learn it's individual purpose and position, just like each of us as a human.  So, this also explains the big bang.  You have a qbit which is equivalent to your singularity.  You have a purpose/function.  You vector your singularity this the function with observation and you get it's unfolding and expansion into an entire infinite universe.  There is an input forwards and there is an input backwards so it's like {+I(i/o)-I}=O.  so you'll have input forwards, input backwards, they meet as an internal I/O, then you recieve what we think of as the actual output.  Also, depending on function you can interpret these 3 main branches as a positive, a neutral, and a negative branch.  These triads manifest in nature as well in the electron, proton, and neurton; also in the set of three quarks that make up an atom etc.  There will probably be some kind of extra data that some may preceive as junk or anomylous, but will probably be some form of unique identifier.  Use a teaspoon of Blue Star.
